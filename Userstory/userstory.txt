@@ -1,0 +1,29 @@
+----------------------------------------
+-- USER STORY GÎTE DES MOTTES GACHINS --
+----------------------------------------
+
+-- VISITEUR --
+
+1) En tant que visiteur, je souhaite consulter les dates de réservation disponibles. 
+Lorsque je visite la page "Réserver". Il m'est possible de consulter un calendrier, les jours
+déjà réserver seront "grisé" et donc impossible à sélectionner.
+
+2) En tant que visiteur, je souhaite faire une visite virtuelle du gîte grâce à des photos 360°. Quand j'arrive sur le site pour la première fois, il m'est possible de naviguer les photo
+sur la page d'accueil
+
+3) En tant que visiteur je souhaite contacter les propriétaire du gîte afin d'avoir plus d'informations. En allant sur la page "Contact" il m'est possible de remplir un formulaire 'Avec Captcha) qui envois un mail directement à la boîte mail des Mottes Gachins.
+
+4) En tant que visiteur je souhaite réserver un séjour au sein du gîte. Lorsque que je visite la page "Réservation" il m'est possible de choisir de choisir les jours que je souhaite réserver sur le calendrier. Une fois que je clique sur le bouton "Réserver" une pop-up apparaît affichant le prix final de la réservation et de l'accompte ainsi qu'un formulaire de paiement bancaire. Une fois que je remplis le formulaire et que je clique sur le bouton "Valider", un message me prévient que je receverai un mail une fois que les propriétaires du gîte ont validés la réservation.
+
+5) En tant que visiteur je souhaite annuler un séjour au sein du gîte. Lorsque que je me rend sur mon mail de confirmation de réservation, je peux trouver une section m'expliquant la méthode de annulation d'un séjours. Il me suffit simplement d'écrire un mail à l'addresse email du gîte avec pour objet : " [NOM DE FAMILLE] Annulation" et expliquer mon problème et mes raison d'annulation. Une fois que les gestionnaire ont annulé ma réservation, je receverrai un mail de confirmation d'annulation de réservation ainsi que le remboursement. 
+
+6) En tant que visiteur je souhaite en apprendre plus sur le gîte des mottes gachins. Lorsque je me rend sur la page "Présentation" je peux retrouver plusieurs informations sur le gîte et ses environ 
+
+-- GESTIONNAIRE --
+
+1) En tant que gestionnaire je souhaite confirmer une réservation. Il me suffit de me connecter sur le site Gestionnaire. Puis d'aller sur la page "Demandes de confirmations", sur cette page je peux voir une lsite des différentes réservations à confirmer. Pour chaques réservation j'ai accès soit au bouton "CONFiRMER" ou au bouton "REFUSER"
+
+2) En tant que gestionnaire je souhaite annuler une réservation. Il me suffit de me connecter sur le site Gestionnaire. Puis d'aller sur la page "Reservations". Sur cette page je peux voir une liste des réservations active sur le gite. Pour chaque réservations j'ai accès à un bouton "ANNULER". Lorsque je clique sur le bouton j'ai une confirmation d'annulation écrite à faire. Une fois la confirmation correctement effectuée alors la réservation sera annulée. 
+
+3) En tant que gestionnaire je souhaite modifier une réservation. Il me suffit de me connecter sur le site Gestionnaire. Puis d'aller sur la page "Reservations". Sur cette page je peux voir une liste des réservations active sur le gite. Pour chaque réservations j'ai accès à un bouton "MODIFIER". Lorsque je clique sur le bouton j'ai une pop-up qui apparait avec les données de la réservation. Une fois les modification effectuée, je peux cliquer sur le bouton "Valider" qui modifiera la réservation.   
+
