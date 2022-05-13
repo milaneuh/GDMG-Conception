@@ -6421,8 +6421,8 @@
 							"left": 1624,
 							"top": 608,
 							"width": 64.89453125,
-							"height": 38,
-							"text": "ERREUR HTTP"
+							"height": 51,
+							"text": "ERREUR HTTP 400"
 						},
 						{
 							"_type": "UMLTextView",
