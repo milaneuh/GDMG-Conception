@@ -980,7 +980,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1508,
+									"left": 1492,
 									"top": 257,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1001,7 +1001,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 1508,
+									"left": 1492,
 									"top": 272,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -1022,7 +1022,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 1509,
+									"left": 1493,
 									"top": 227,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -1041,7 +1041,7 @@
 								"$ref": "AAAAAAGAvElUc20RXhY="
 							},
 							"lineStyle": 2,
-							"points": "1509:219;1509:248;1120:248",
+							"points": "1493:219;1493:248;1120:248",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGAvFMHIW5D21c="
@@ -4031,7 +4031,7 @@
 											"top": 943,
 											"width": 79,
 											"height": 52,
-											"text": "Retourner JSON ERROR ER-10002",
+											"text": "Retourner JSON ERROR ER10002",
 											"wordWrap": true
 										},
 										{
@@ -4144,7 +4144,7 @@
 											"top": 575,
 											"width": 95,
 											"height": 39,
-											"text": "Retourner JSON ERROR ER-10001",
+											"text": "Retourner JSON ERROR ER10001",
 											"wordWrap": true
 										},
 										{
@@ -6350,7 +6350,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGAvET0RW0KItc="
 							},
-							"name": "Retourner JSON ERROR ER-10002",
+							"name": "Retourner JSON ERROR ER10002",
 							"kind": "sendSignal"
 						},
 						{
@@ -6445,7 +6445,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGAvL9Aabft/+4="
 							},
-							"name": "Retourner JSON ERROR ER-10001",
+							"name": "Retourner JSON ERROR ER10001",
 							"kind": "sendSignal"
 						}
 					]
